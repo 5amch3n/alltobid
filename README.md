@@ -1,2 +1,2 @@
 # alltobid
-I'm posting 4-digit IDs prior to each month's bid, and bidnumbers afterwards.
+I'm gonna put two files in this repository: version.txt and app.asar
